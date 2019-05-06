@@ -2,9 +2,10 @@
 
 
 def main(msg):
-    //another comment
-    // diff comment
-    // Print a message
+    //no longer need comments
     print(msg)
+
+def seconday():
+    print("new func")
 
 main("Hello World")
