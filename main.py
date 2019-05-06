@@ -2,6 +2,7 @@
 
 
 def main(msg):
+    //another comment
     // diff comment
     // Print a message
     print(msg)
